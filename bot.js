@@ -5,8 +5,8 @@
 // @match          https://www.memrise.com/course/1138882/aqa-new-gcse-german-9-1/7/garden/learn/?source_element=level_details_session&source_screen=level_details
  
 // @version        0.0.12
-// @updateURL      https://github.com/Cohejh/memrise-bot/blob/main/bot.js
-// @downloadURL    https://github.com/Cohejh/memrise-bot/blob/main/bot.js
+// @updateURL      https://raw.githubusercontent.com/Cohejh/memrise-bot/main/GUI/gui.js
+// @downloadURL    https://raw.githubusercontent.com/Cohejh/memrise-bot/main/GUI/gui.js
 // @grant          none
 // ==/UserScript==
  
